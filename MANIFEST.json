@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "project": "THE GRID",
   "fileCount": 18,
-  "totalBytes": 398483,
-  "inventorySha256": "0a017f2d2caeb5ea788ad1b8d72493a7dbe6c1cbca8305f54eebb9b50e28ff86",
+  "totalBytes": 398478,
+  "inventorySha256": "6376d9cdcaae52a774ca49d02d1b85255e5c3c19eba54a58423ed418cc34985c",
   "files": [
     {
       "path": ".github/workflows/deploy-public.yml",
@@ -36,19 +36,19 @@
       "sha256": "77fefe8ca19b9f69b5284832c519e0493127c1f091f0a8936884be7721c4e618"
     },
     {
-      "path": "site/assets/lifecycle-DfWLoeYT.js",
+      "path": "site/assets/lifecycle-4AXImOW9.js",
       "bytes": 163538,
-      "sha256": "54ada0630b6900c9dec85750af6e2d181504348c6230e8ae125a791cd123f5bd"
+      "sha256": "35ac85dcecded541909e9f7c8e1c3a83e476088938d3cd74e037dd5b7d913db4"
     },
     {
-      "path": "site/assets/main-BwWPnEHM.css",
-      "bytes": 47994,
-      "sha256": "f03f5b544b5bf24511c2cd3df4dcfc2340f9f3350c893e5faa0cdf9636dcfd06"
-    },
-    {
-      "path": "site/assets/main-DrfUxGdX.js",
+      "path": "site/assets/main-1nl91Cle.js",
       "bytes": 12436,
-      "sha256": "1b109132e0d52249718916abc75676581fa400b6b1539674322e8ae56b2d1f0a"
+      "sha256": "c96ce9d5c493a5ba275cf670bd52dd414cd33ccd4a3e02fbaf6ddb50ed0f1f29"
+    },
+    {
+      "path": "site/assets/main-5b56E6Sa.css",
+      "bytes": 47989,
+      "sha256": "0f7b8dd5efc8ba7b447c521a97ee509e7222e66475e9e8050af74e82ad19f6d4"
     },
     {
       "path": "site/concepto.html",
@@ -58,7 +58,7 @@
     {
       "path": "site/index.html",
       "bytes": 30404,
-      "sha256": "381d45b59de376ae8649bc6b1e90c824d2c6526e88244fac7242c7cb4da7afb7"
+      "sha256": "c04d0ab8d8ba08ef48c8da7dea18e7bd82f6c1956c5ba7af9ca9c4ac52b98ec4"
     },
     {
       "path": "site/licenses/ibm-plex-mono.txt",
